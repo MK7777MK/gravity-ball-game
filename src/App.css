@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  overflow: hidden;
+}
+
+canvas {
+  width: 100%;
+  background-color: whitesmoke;
+  min-height: 100vh;
+}
+
+@media only screen and (min-width: 1800px) {
+  h1 {
+    font-size: 80px;
+  }
+}
+/*# sourceMappingURL=App.css.map */
